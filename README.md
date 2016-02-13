@@ -27,3 +27,5 @@
 - [List global packages](npm/list-global-packages.md)
 
 ### Webstorm
+
+- [Shortcuts](webstorm/shortcuts.md)
