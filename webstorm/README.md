@@ -2,4 +2,4 @@
 
 | Action | Key Map | Description |
 | --- | --- | --- |
-| Search by symbol | ALT + CMD + O |
+| Search by symbol | ALT + CMD + O | |
