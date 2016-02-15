@@ -28,4 +28,5 @@
 
 ### Webstorm
 
+- [Exclude folders from searches](webstorm/exclude-folders-from-searches.md)
 - [Shortcuts](webstorm/shortcuts.md)
