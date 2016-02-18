@@ -2,4 +2,4 @@
 
 Go to `settings` --> `Tools` --> `Terminal`
 
-Uncheck `Override IDE shortcuts
+Uncheck `Override IDE shortcuts`
