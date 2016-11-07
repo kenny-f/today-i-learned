@@ -1,0 +1,5 @@
+## Passing arguments into npm scripts
+
+`npm run <command> [-- <args>]`
+
+`npm run test -- --teamcity`
